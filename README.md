@@ -132,3 +132,6 @@ IT Operations: Creating system health or log analysis reports.
 Conclusion
 
 Python offers a flexible and powerful platform for automated report generation. From data acquisition and processing to visualization and file creation, Python streamlines the entire reporting pipeline. By automating routine reporting tasks, organizations can focus more on analysis and decision-making rather than manual document preparation. As a result, Python-based automation not only saves time and resources but also improves the reliability and impact of reports.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/ad13eb70-906b-4117-ac6a-735611022edd)
